@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @a1nkita
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...Java,python,sql
+- 🌱 I’m currently working as developer...Java,python,sql
 - 💞️ I’m looking to collaborate on .my new projects..
 - 📫 How to reach me ...
 
